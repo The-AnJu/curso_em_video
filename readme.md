@@ -1,3 +1,3 @@
 # Loading...
 
-<a href="https://the-anju.github.io/curso_em_video/exercicios/html-css/ex001/index.html">Executar o exercício 001</a>
+<a href="https://the-anju.github.io/exercicios/html-css/EX001/index.html">Executar o exercício 001</a>
